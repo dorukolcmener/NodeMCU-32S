@@ -21,13 +21,13 @@ Protective case design model for NodeMCU-32S board. No fasteners required since 
 1- Clone it first
 
 ```
-git clone https://github.com/dorukolcmener/NodeMCU-32S.git
+git clone https://github.com/dorukolcmener/NodeMCU-32S-Protective-Case.git
 ```
 
 2- Cd into Solids folder and open it.
 
 ```
-cd NodeMCU-32S/Solids
+cd NodeMCU-32S-Protective-Case/Solids
 start .
 ```
 
