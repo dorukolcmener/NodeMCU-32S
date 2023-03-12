@@ -2,14 +2,19 @@
 
 Protective case design model for NodeMCU-32S board. No fasteners needed because the cover and the base shrink fits on each other.
 
-<img src="Pictures\NodeMCU-ESP32-Board.png" height=200/>
-<img src="Pictures\NodeMCU-ESP32-CASE.png" height=200/>
-
 ## Important Notes
 
 - This model is designed only for proto 3D printing, it does not have draft angles implemented.
 - Recommended filament material is >PLA<
 - Conduct appropriate thermal calculation and risk management studies before using this case. Be mindful about the sharp edge regulation in your country. Understand that this is just a hobby model, and I will not be responsible of any damage that may occur.
+
+- Board picture:
+
+  - <img src="Pictures\NodeMCU-ESP32-Board.png" width=200/>
+
+- ### Case model:
+
+  - <img src="Pictures\NodeMCU-ESP32-CASE.png" width=200/>
 
 ## Usage
 
