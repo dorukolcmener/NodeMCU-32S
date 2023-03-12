@@ -1,6 +1,6 @@
 # NodeMCU-32S Protective Case
 
-Protective case design model for NodeMCU-32S board. No fasteners needed because the cover and the base shrink fits on each other.
+Protective case design model for NodeMCU-32S board. No fasteners required since the cover and the base shrink fits on each other.
 
 ## Important Notes
 
@@ -12,7 +12,7 @@ Protective case design model for NodeMCU-32S board. No fasteners needed because 
 
   - <img src="Pictures\NodeMCU-ESP32-Board.png" width=200/>
 
-- ### Case model:
+- Case model:
 
   - <img src="Pictures\NodeMCU-ESP32-CASE.png" width=200/>
 
