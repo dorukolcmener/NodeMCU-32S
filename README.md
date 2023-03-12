@@ -12,32 +12,32 @@ Protective case design model for NodeMCU-32S board. No fasteners required since 
 
   - <img src="Pictures\NodeMCU-ESP32-Board.png" width=200/>
 
-- Case model:
+- Case picture:
 
-  - <img src="Pictures\NodeMCU-ESP32-CASE.png" width=200/>
+  - <img src="Pictures\NodeMCU-ESP32-CASE.png" width=250/>
 
 ## Usage
 
-### 1- Clone it first
+1- Clone it first
 
 ```
 git clone https://github.com/dorukolcmener/NodeMCU-32S.git
 ```
 
-### 2- Cd into Solids and open the folder
+2- Cd into Solids folder and open it.
 
 ```
 cd NodeMCU-32S/Solids
 start .
 ```
 
-### 3- Open STL models on your favourite slicer software.
+3- Open STL models on your favourite slicer software.
 
-### 4- Print the models with your 3D printer.
+4- Print the models with your 3D printer.
 
-### 5- Place the NodeMCU into the cover, make sure the chip is pointing to the smiley face.
+5- Place the NodeMCU into the cover, make sure the chip is pointing to the smiley face.
 
-### 6- Close and shrink fit the cover.
+6- Close and shrink fit the cover.
 
 ```
 Congrats! 🥳🥳🥳
